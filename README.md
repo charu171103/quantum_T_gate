@@ -17,12 +17,10 @@ This notebook demonstrates the effect of the T gate on the six canonical input s
 
 - **Matrix Representation**: The T gate matrix is
 
-  \[
-  T = \begin{bmatrix}
-  1 & 0 \\
-  0 & e^{i\pi/4}
-  \end{bmatrix}
-  \]
+  
+  T = [[1 & 0 ]
+       [0 & e^i\pi/4]]
+
 
 - **Input States**: Each input state vector is explicitly defined in the computational basis.
 
